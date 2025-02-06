@@ -147,6 +147,9 @@ export const credits = [
                 name: 'History of Uzbekistan 2',
                 credits: 1,
                 required: true,
+            }, {
+                name: 'Engineering Communications',
+                credits: 3
             }
         ],
     },
@@ -158,10 +161,10 @@ export const credits = [
                 credits: 3,
                 required: true,
             }, {
-                name: 'Unix programming',
+                name: 'Unix Programming',
                 credits: 3,
             }, {
-                name: 'Introduction to business administration',
+                name: 'Introduction to Business Administration',
                 credits: 3,
                 required: true,
             }, {
@@ -171,10 +174,9 @@ export const credits = [
                 name: 'Database Application and Design',
                 credits: 3,
             }, {
-                name: 'Internet Programming',
-                credits: 3,
-                required: true,
-            }, 
+                name: 'Probability and Statistics',
+                credits: 3
+            }
         ],
     }, {
         name: "Senior Fall (1st)",
@@ -194,6 +196,9 @@ export const credits = [
             }, {
                 name: 'Big Data analytics',
                 credits: 3,
+            }, {
+                name: 'Distinguished Lecture in Social Science and Art',
+                credits: 2
             }
         ],
     }, {
@@ -207,7 +212,7 @@ export const credits = [
                 name: 'Computer Security',
                 credits: 3,
             }, {
-                name: 'Multimedia Computing',
+                name: 'Multimedia Application',
                 credits: 3,
             }, {
                 name: 'Mobile Programming',
@@ -215,6 +220,9 @@ export const credits = [
             }, {
                 name: 'Internet of Things',
                 credits: 3,
+            }, {
+                name: 'Engineering Ethics',
+                credits: 2
             }
         ]
     }
